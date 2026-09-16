@@ -19,7 +19,7 @@ This repository contains a **full ISMS implementation project** aligned with **I
 
 ---
 
-## 👥 Project Team
+##  Project Team
 
 | # | Name | Student ID | Role |
 |---|------|------------|------|
@@ -49,7 +49,7 @@ ISMS-FINAL-XPYTE/
 
 ---
 
-## 📋 Project Deliverables
+##  Project Deliverables
 
 | # | Document | Reference | Format |
 |---|----------|-----------|--------|
@@ -74,7 +74,7 @@ ISMS-FINAL-XPYTE/
 
 ---
 
-## 📊 Key Results
+##  Key Results
 
 ### Risk Assessment
 
@@ -110,7 +110,7 @@ ISMS-FINAL-XPYTE/
 
 ---
 
-## 🛠️ Standards & Frameworks
+##  Standards & Frameworks
 
 | Standard | Purpose |
 |----------|---------|
@@ -124,7 +124,7 @@ ISMS-FINAL-XPYTE/
 
 ---
 
-## 🎯 Skills Applied
+##  Skills Applied
 
 | Skill | Application |
 |-------|-------------|
@@ -139,7 +139,7 @@ ISMS-FINAL-XPYTE/
 
 ---
 
-## 🚀 How to Navigate
+##  How to Navigate
 
 | Step | Where to Start |
 |------|----------------|
@@ -151,7 +151,7 @@ ISMS-FINAL-XPYTE/
 
 ---
 
-## 📚 References
+##  References
 
 - [ISO/IEC 27001:2022 Official](https://www.iso.org/standard/27001)
 - [SAMA Cybersecurity Framework](https://www.sama.gov.sa)
