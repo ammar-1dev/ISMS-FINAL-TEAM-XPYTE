@@ -32,19 +32,6 @@ This repository contains a **full ISMS implementation project** aligned with **I
 
 ---
 
-## 📂 Repository Structure
-ISMS-FINAL-XPYTE/
-│
-├── 01_Scope_and_Context/ → ISMS Scope, Context, Interested Parties
-├── 02_Policies/ → Information Security Policy, AUP, Objectives
-├── 03_Risk_Management/ → Methodology, Appetite, Risk Tool, Report
-├── 04_SOA/ → Statement of Applicability (93 controls)
-├── 05_Asset_Management/ → Asset Inventory, Configuration Baseline
-├── 06_Incident_Management/ → Incident Response Procedure
-├── 07_Security_Procedures/ → Backup, Encryption, Patch, Vulnerability SOPs
-├── 08_Business_Continuity/ → BCP & Disaster Recovery Plan
-├── 09_Audit_and_Compliance/ → Internal Audit, Nonconformity, Performance
-└── README.md
 
 
 ---
