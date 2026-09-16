@@ -167,7 +167,8 @@ ISMS-FINAL-XPYTE/
 **Bashar  Al-Shrawy** —
 **Aseel Al-Murghami** — 
 **Mohammed Al-Sanabani** — 
-
+**تحت إشراف:**
+**الدكتور أيمن العنسي** — أستاذ المقرر
 **Supervisor:** Sarah Al-Harbi — CISO
 
 ---
