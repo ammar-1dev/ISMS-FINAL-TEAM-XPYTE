@@ -23,10 +23,10 @@ This repository contains a **full ISMS implementation project** aligned with **I
 
 | # | Name | Student ID | Role |
 |---|------|------------|------|
-| 1 | Ammar Al-Musbahi | — | Project Lead & Document Author |
-| 2 | Bashar Al-Sharwai | — | Risk Assessment & Analysis |
-| 3 | Aseel Al-Murghami | — | Policy Development & Compliance |
-| 4 | Mohammed Al-Sanabani | — | Audit & Documentation Review |
+| 1 | Ammar Al-Musbahi | — | Project Lead |
+| 2 | Bashar Al-Sharwai | — |  |
+| 3 | Aseel Al-Murghami | — |  |
+| 4 | Mohammed Al-Sanabani | — |  |
 
 **Supervisor:** Sarah Al-Harbi — Chief Information Security Officer (CISO)
 
@@ -164,9 +164,9 @@ ISMS-FINAL-XPYTE/
 ## 👤 Authors
 
 **Ammar Al-Musbahi** — Project Lead
-**Bashar Al-Sharwai** — Risk Assessment
-**Aseel Al-Murghami** — Policy & Compliance
-**Mohammed Al-Sanabani** — Audit & Documentation
+**Bashar Al-Sharwai** —
+**Aseel Al-Murghami** — 
+**Mohammed Al-Sanabani** — 
 
 **Supervisor:** Sarah Al-Harbi — CISO
 
