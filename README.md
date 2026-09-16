@@ -24,7 +24,7 @@ This repository contains a **full ISMS implementation project** aligned with **I
 | # | Name | Student ID | Role |
 |---|------|------------|------|
 | 1 | Ammar Al-Musbahi | — | Project Lead |
-| 2 | Bashar Al-Sharwai | — |  |
+| 2 | Bashar  Al-Shrawy | — |  |
 | 3 | Aseel Al-Murghami | — |  |
 | 4 | Mohammed Al-Sanabani | — |  |
 
@@ -164,7 +164,7 @@ ISMS-FINAL-XPYTE/
 ## 👤 Authors
 
 **Ammar Al-Musbahi** — Project Lead
-**Bashar Al-Sharwai** —
+**Bashar  Al-Shrawy** —
 **Aseel Al-Murghami** — 
 **Mohammed Al-Sanabani** — 
 
