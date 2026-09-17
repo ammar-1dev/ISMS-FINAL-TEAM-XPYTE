@@ -2,7 +2,7 @@
 
 **A complete mock implementation of an Information Security Management System (ISMS) based on ISO/IEC 27001:2022 for a fictional Saudi digital bank.**
 
-**تطبيق تجريبي كامل لنظام إدارة أمن المعلومات وفق معيار ISO/IEC 27001:2022 لبنك سعودي رقمي (خيالي).**
+**تطبيق تجريبي كامل لنظام إدارة أمن المعلومات وفق معيار ISO/IEC 27001:2022 لبنك سعودي رقمي .**
 
 ---
 
@@ -25,7 +25,7 @@ This repository contains a **full ISMS implementation project** aligned with **I
 |---|------|------------|------|
 | 1 | Ammar Al-Musbahi | — | Project Lead |
 | 2 | Bashar  Al-Shrawy | — |  |
-| 3 | Aseel Al-Murghami | — |  |
+| 3 | Asil ALmerghmi | — |  |
 | 4 | Mohammed Al-Sanabani | — |  |
 
 **Supervisor:** Sarah Al-Harbi — Chief Information Security Officer (CISO)
@@ -148,15 +148,12 @@ This repository contains a **full ISMS implementation project** aligned with **I
 
 ---
 
-## 👤 Authors
-
-**Ammar Al-Musbahi** — Project Lead
-**Bashar  Al-Shrawy** —
-**Aseel Al-Murghami** — 
-**Mohammed Al-Sanabani** — 
-**تحت إشراف:**
-**الدكتور أيمن العنسي** — أستاذ المقرر
-**Supervisor:** Sarah Al-Harbi — CISO
+👤 Contributors
+Ammar Al-Musbahi
+Bashar Al-Shrawy
+Asil ALmerghmi
+Mohammed Al-Sanabani
+Supervisor: Aiman Al-Ansi
 
 ---
 
