@@ -25,7 +25,7 @@ This repository contains a **full ISMS implementation project** aligned with **I
 |---|------|------------|------|
 | 1 | Ammar Al-Musbahi | — | Project Lead |
 | 2 | Bashar  Al-Shrawy | — |  |
-| 3 | Asil ALmerghmi | — |  |
+| 3 | Aseel ALmerghmi | — |  |
 | 4 | Mohammed Al-Sanabani | — |  |
 
 **Supervisor:** Sarah Al-Harbi — Chief Information Security Officer (CISO)
