@@ -159,9 +159,9 @@ Supervisor: Aiman Al-Ansi
 
 ## 📄 License
 
-This project is for **educational purposes only**. It demonstrates a mock ISMS implementation based on ISO 27001:2022 in a fictional Saudi bank.
+This project is for ****. It demonstrates a mock ISMS implementation based on ISO 27001:2022 in a fictional Saudi bank.
 
-هذا المشروع **لأغراض تعليمية فقط**. يوضّح تطبيقاً تجريبياً لنظام إدارة أمن المعلومات وفق معيار ISO 27001:2022 في بنك سعودي خيالي.
+هذا المشروع ****. يوضّح تطبيقاً تجريبياً لنظام إدارة أمن المعلومات وفق معيار ISO 27001:2022 في بنك سعودي.
 
 ---
 
