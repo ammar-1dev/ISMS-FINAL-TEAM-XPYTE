@@ -152,7 +152,7 @@ This repository contains a **full ISMS implementation project** aligned with **I
 Ammar Al-Musbahi
 Bashar Al-Shrawy
 Asil ALmerghmi
-Mohammed Al-Sanabani
+Mohammed foud Al-Sanabani
 Supervisor: Aiman Al-Ansi
 
 ---
