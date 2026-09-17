@@ -165,6 +165,14 @@ This project is for ****. It demonstrates a mock ISMS implementation based on IS
 
 ---
 
+## 🤝 Supplier Security
+
+Third-party and cloud service providers are assessed and monitored to ensure they meet the bank's information security requirements.
+
+يتم تقييم ومراقبة مقدمي الخدمات الخارجيين والحوسبة السحابية لضمان التزامهم بمتطلبات أمن المعلومات في البنك.
+
+---
+
 <div align="center">
 
 **⭐ If you find this project useful, please star it ⭐**
@@ -172,3 +180,6 @@ This project is for ****. It demonstrates a mock ISMS implementation based on IS
 **⭐ إذا وجدت هذا المشروع مفيداً، يرجى إعطائه نجمة ⭐**
 
 </div>
+
+---
+
